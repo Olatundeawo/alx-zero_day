@@ -1,1 +1,1 @@
-my first readme
+This is a training repo
